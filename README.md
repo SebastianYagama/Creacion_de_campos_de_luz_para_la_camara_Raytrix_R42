@@ -6,8 +6,8 @@ Algoritmo para la creación de tres tipos de campos de luz usando fotografías
 
 
     Autores:
-       - Jhon Sebastian Yagama Parra
-       - Juan Sebastian Mora Zarza
+       -    Jhon Sebastian Yagama Parra
+       -    Juan Sebastian Mora Zarza
 
 
    Pontificia Universidad Javeriana
