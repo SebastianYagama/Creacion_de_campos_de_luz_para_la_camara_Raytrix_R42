@@ -5,9 +5,9 @@ Algoritmo para la creación de tres tipos de campos de luz usando fotografías
             adquiridas por la cámara plenóptica Raytrix R42.
 
 
-    Autores:
-       -    Jhon Sebastian Yagama Parra
-       -    Juan Sebastian Mora Zarza
+Autores:
+-    Jhon Sebastian Yagama Parra
+-    Juan Sebastian Mora Zarza
 
 
    Pontificia Universidad Javeriana
