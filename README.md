@@ -27,7 +27,7 @@ Este código desarrollado en Python se diseñó para la clasificación de lentes
    -   Imagen a generar los campos de luz.
    -   Dirección donde serán creadas las carpetas donde serán guardados los campos de luz.
 
-   Opcionales: (Pueden mejorar los resutados, a veces son obligatorias)
+   Opcionales: (Pueden mejorar los resutados, dependiendo de las fotos hay que editarlas)
    -   Tamaño de la matriz para la creación del campo de luz.
    -   Rangos en los que la función de thresholding o umbralización trabajará
 
