@@ -38,3 +38,6 @@ Este código desarrollado en Python se diseñó para la clasificación de lentes
 ### Para obtener más información leer el documento en la página de Sharepoint o en la carpeta Documentación: 
    -   Método para la creación de un campo de luz con cámaras plenópticas.pdf
    -   https://livejaverianaedu.sharepoint.com/:b:/s/FotografaPlenoptica2/EeoLv_10DbpBmpFsXZsBbwgBTrcLu6SLzY9_DxBYkPdI8w?e=UN350g
+
+### Para descargar las imágenes usadas como ejemplo (Las imágenes estan en sus respectivas carpetas):
+   -   https://www.dropbox.com/scl/fo/4ti9n9bmecx3x4gdntko3/h?dl=0&rlkey=kvaube66mt4rzqq1lkl1ct41h
